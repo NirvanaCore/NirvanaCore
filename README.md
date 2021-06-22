@@ -67,7 +67,7 @@ src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten.png?raw=true"
 [![Soniya's github stats](https://github-readme-stats.vercel.app/api?username=NirvanaCore)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Lets Connect Over --
+## Lets Connect Over 
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/soniya-solanki-rana-3737521aa/)
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/nirvana.core/)[<img src='https://img.shields.io/badge/CodePen-000001?style=for-the-badge&logo=codepen&logoColor=white'>](https://codepen.io/nirvanacore)
