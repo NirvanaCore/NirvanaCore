@@ -3,7 +3,7 @@
 ### Hello there 👋 I'm Soniya FrontEnd web developer, from India.
 
 I'm fronted Intern at Aztlan and also a freelancer. I find inner peace in Technical Creativity and
-Learning.Currently epertising in MERN application and svelte.
+Learning.Currently expertising in MERN application and svelte.
 
 ---
 
