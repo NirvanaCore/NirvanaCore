@@ -13,15 +13,6 @@ Learning.Currently epertising in MERN application and svelte.
 
 ---
 
-<a href="https://github.com/NirvanaCore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaCore&layout=compact&title_color=000000&text_color=000000" />
-</a>
-
----
-
-[![Soniya's github stats](https://github-readme-stats.vercel.app/api?username=NirvanaCore)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## Known technologies
 <img padding='10px' margin='5px' width='30px' height='30px' alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
@@ -55,6 +46,16 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 /><img padding='10px' margin='5px' width='30px' height='30px'
 src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten.png?raw=true"
 /><br></br>
+
+---
+
+<a href="https://github.com/NirvanaCore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaCore&layout=compact&title_color=000000&text_color=000000" />
+</a>
+
+---
+
+[![Soniya's github stats](https://github-readme-stats.vercel.app/api?username=NirvanaCore)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
