@@ -25,8 +25,8 @@ Learning.Currently epertising in MERN application and svelte.
 
 ## Known technologies
 
-<img padding='10px' width='30px' height='30px' alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-/><img padding='10px' width='30px' height='30px' alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+<img margin='10px' width='30px' height='30px' alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+/><img margin='10px' width='30px' height='30px' alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
 /><img padding='10px' width='30px' height='30px' alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
 /><img padding='10px' width='30px' height='30px' alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
 /><img alt="Sass" padding='10px' width='30px' height='30px'
