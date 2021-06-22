@@ -58,13 +58,13 @@ src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten.png?raw=true"
 
 
 <a href="https://github.com/NirvanaCore">
-  <div align='center'>
+<!--   <div align='center'> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaCore&layout=compact&title_color=000000&text_color=000000" />
-</div>
+<!-- </div> -->
     </a>
 
 
-[![Soniya's github stats]<div align='center'>(https://github-readme-stats.vercel.app/api?username=NirvanaCore)</div>](https://github.com/anuraghazra/github-readme-stats)
+[![Soniya's github stats](https://github-readme-stats.vercel.app/api?username=NirvanaCore)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Lets Connect Over --
