@@ -1,9 +1,19 @@
-### NirvanaCore - Keep Learning | Keep Growing
+<h3 align='center'> NirvanaCore - Keep Learning | Keep Growing<h3>
 
-# Hello there 👋 I'm <a href="https://github.com/NirvanaCore"> Soniya </a> FrontEnd web developer, from India.
+<div align='center'>
+<h1> Hello there 👋 I'm <a href="https://github.com/NirvanaCore"> Soniya </a> FrontEnd web developer from India.</h1>
+</div>
 
-I'm fronted Intern at Aztlan and also a freelancer. I find inner peace in Technical Creativity and
-Learning.Currently expertising in MERN application and svelte.
+## About Me
+
+- Pronouns she/her
+- Fronted Intern at Aztlan and also a freelancer.
+- Currently expertising in MERN application and svelte.
+- Find inner peace in Technical Creativity and Learning.
+- Love cooking (foodie) and playing Squash
+
+<!-- I'm fronted Intern at Aztlan and also a freelancer. I find inner peace in Technical Creativity and
+Learning.Currently expertising in MERN application and svelte. -->
 
 ---
 
@@ -13,8 +23,8 @@ Learning.Currently expertising in MERN application and svelte.
 
 ---
 
-
 ## Known technologies
+
 <img padding='10px' margin='5px' width='30px' height='30px' alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
 /><img padding='10px' margin='5px' width='30px' height='30px' alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
 /><img padding='10px' margin='5px' width='30px' height='30px' alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
