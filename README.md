@@ -60,8 +60,10 @@ src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten.png?raw=true"
 ---
 
 <a href="https://github.com/NirvanaCore">
+  <div align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaCore&layout=compact&title_color=000000&text_color=000000" />
-</a>
+</div>
+    </a>
 
 ---
 
