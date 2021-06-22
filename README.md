@@ -21,7 +21,7 @@ Learning.Currently excelling in MERN application and svelte.
 ---
 
 [![Soniya's github stats](https://github-readme-stats.vercel.app/api?username=NirvanaCore)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- 
 ---
 
 ## Known technologies
@@ -68,7 +68,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"
 /> <img style="border:0px;padding:1px;float:left;width:10px;height:10px;"
 src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten.png?raw=true"
-/>
+/> -->
 
 <br></br>
 
