@@ -21,7 +21,6 @@ Learning.Currently expertising in MERN application and svelte. -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge"><img src="https://img.shields.io/badge/React-7E356E?logo=React&logoColor=black&style=for-the-badge"><img src="https://img.shields.io/badge/ViteJs-C19B27?logo=vite&logoColor=black&style=for-the-badge"><img src='https://img.shields.io/badge/Typescript-0d770d?logo=Typescript&logoColor=white&style=for-the-badge'><img src="https://img.shields.io/badge/Tailwind CSS-379BDD?logo=Tailwind-CSS&logoColor=black&style=for-the-badge">
 
 
-
 ## Known technologies
 
 <img padding='10px' margin='5px' width='30px' height='30px' alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
@@ -62,7 +61,7 @@ src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten.png?raw=true"
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaCore&layout=compact&title_color=000000&text_color=000000" />
 <!-- </div> -->
     </a>
-
+<br></br>
 
 [![Soniya's github stats](https://github-readme-stats.vercel.app/api?username=NirvanaCore)](https://github.com/anuraghazra/github-readme-stats)
 
