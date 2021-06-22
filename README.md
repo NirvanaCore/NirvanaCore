@@ -27,48 +27,35 @@ Learning.Currently epertising in MERN application and svelte.
 
 <img style="border:0px;padding:1px;float:left" width='30px' height='30px' alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
 /><img style="border:0px;padding:1px;float:left;" width='30px' height='30px' alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-/>
-<img style="border:0px;padding:1px;float:left;width:10px;height:10px;" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-/>
-<img style="border:0px;padding:1px;float:left;width:10px;height:10px;" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-/>
-<img alt="Sass" style="border:0px;padding:1px;float:left;width:10px;height:10px;"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px' alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px' alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
+/><img alt="Sass" style="border:0px;padding:1px;float:left;" width='30px' height='30px'
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
-/>
-<img style="border:0px;padding:1px;float:left;width:10px;height:10px;" alt="Tailwind" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"
-/>
-<img style="border:0px;padding:1px;float:left;width:10px;height:10px;" alt="Material"
-src="https://material-ui.com/static/logo.svg" />
-<img alt="JavaScript" style="border:0px;padding:1px;float:left;width:10px;height:10px;"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px' alt="Tailwind" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px' alt="Material"
+src="https://material-ui.com/static/logo.svg" /><img alt="JavaScript" style="border:0px;padding:1px;float:left;" width='30px' height='30px'
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-/>
-<img alt="React"  style="border:0px;padding:1px;float:left;width:10px;height:10px;"
+/><img alt="React"  style="border:0px;padding:1px;float:left;" width='30px' height='30px'
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-/>
-<img alt="Redux" style="border:0px;padding:1px;float:left;width:10px;height:10px;"
+/><img alt="Redux" style="border:0px;padding:1px;float:left;" width='30px' height='30px'
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"
-/>
-<img alt="ViteJs" style="border:0px;padding:1px;float:left;width:10px;height:10px;"
-src="https://vitejs.dev/logo.svg" />
-<img style="border:0px;padding:1px;float:left;width:10px;height:10px;" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-/> <img style="border:0px;padding:1px;float:left;width:10px;height:10px;"
+/><img alt="ViteJs" style="border:0px;padding:1px;float:left;" width='30px' height='30px'
+src="https://vitejs.dev/logo.svg" /><img style="border:0px;padding:1px;float:left;" width='30px' height='30px' alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px'
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"
-/> <img style="border:0px;padding:1px;float:left;width:10px;height:10px;"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px'
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-/> <img style="border:0px;padding:1px;float:left;width:10px;height:10px;"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px'
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
-/>
-<img style="border:0px;padding:1px;float:left;width:10px;height:10px;" padding="50px"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px' padding="50px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
-/> <img style="border:0px;padding:1px;float:left;width:10px;height:10px;"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px'
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-/> <img style="border:0px;padding:1px;float:left;width:10px;height:10px;"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px'
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"
-/> <img style="border:0px;padding:1px;float:left;width:10px;height:10px;"
+/><img style="border:0px;padding:1px;float:left;" width='30px' height='30px'
 src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten.png?raw=true"
-/>
-
-<br></br>
+/><br></br> <br></br>
 
 ---
 
