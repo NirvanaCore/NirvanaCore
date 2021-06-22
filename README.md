@@ -15,13 +15,12 @@
 <!-- I'm fronted Intern at Aztlan and also a freelancer. I find inner peace in Technical Creativity and
 Learning.Currently expertising in MERN application and svelte. -->
 
----
 
 ## Current Stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge"><img src="https://img.shields.io/badge/React-7E356E?logo=React&logoColor=black&style=for-the-badge"><img src="https://img.shields.io/badge/ViteJs-C19B27?logo=vite&logoColor=black&style=for-the-badge"><img src='https://img.shields.io/badge/Typescript-0d770d?logo=Typescript&logoColor=white&style=for-the-badge'><img src="https://img.shields.io/badge/Tailwind CSS-379BDD?logo=Tailwind-CSS&logoColor=black&style=for-the-badge">
 
----
+
 
 ## Known technologies
 
@@ -57,7 +56,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten.png?raw=true"
 /><br></br>
 
----
 
 <a href="https://github.com/NirvanaCore">
   <div align='center'>
@@ -65,11 +63,9 @@ src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten.png?raw=true"
 </div>
     </a>
 
----
-
+<div align='center'>
 [![Soniya's github stats](https://github-readme-stats.vercel.app/api?username=NirvanaCore)](https://github.com/anuraghazra/github-readme-stats)
-
----
+</div>
 
 ## Lets Connect Over --
 
