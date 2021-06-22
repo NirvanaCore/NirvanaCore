@@ -64,8 +64,8 @@ src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten.png?raw=true"
     </a>
 
 
-[![Soniya's github stats](https://github-readme-stats.vercel.app/api?username=NirvanaCore)] <div align='center'>(https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Soniya's github stats]<div align='center'>(https://github-readme-stats.vercel.app/api?username=NirvanaCore)</div>](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Lets Connect Over --
 
