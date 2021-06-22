@@ -25,9 +25,8 @@ Learning.Currently epertising in MERN application and svelte.
 
 ## Known technologies
 
-<img style="border:0px;padding:1px;float:left;width:10px;height:10px;" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-/>
-<img style="border:0px;padding:1px;float:left;width:10px;height:10px;" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+<img style="border:0px;padding:1px;float:left" width='10px' height='10px' alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+/><img style="border:0px;padding:1px;float:left;" width='10px' height='10px' alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
 />
 <img style="border:0px;padding:1px;float:left;width:10px;height:10px;" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
 />
