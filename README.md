@@ -1,6 +1,6 @@
 # NirvanaCore - Keep Learning | Keep Growing
 
-### Hello there 👋 I'm ## Soniya FrontEnd web developer, from India.
+### Hello there 👋 I'm <a href="https://github.com/NirvanaCore"> Soniya </a> FrontEnd web developer, from India.
 
 I'm fronted Intern at Aztlan and also a freelancer. I find inner peace in Technical Creativity and
 Learning.Currently expertising in MERN application and svelte.
