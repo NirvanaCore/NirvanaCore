@@ -7,8 +7,8 @@
 ## About Me
 
 - Pronouns she/her
-- Fronted Intern at Aztlan and also a freelancer.
-- Currently expertising in MERN application and svelte.
+- Jr. Software Developer (MERN) at Good Egg Marketing.
+- Currently expertising in MERN application (Fullstack).
 - Find inner peace in Technical Creativity and Learning.
 - Love cooking (foodie) and playing Squash
 
