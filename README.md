@@ -7,7 +7,7 @@
 ## About Me
 
 - Pronouns she/her
-- Jr. Software Developer at Good Egg Marketing.
+- Software Developer at Human Cloud.
 - Currently expertising in MERN application (Fullstack).
 - Find inner peace in Technical Creativity and Learning.
 - Love cooking (foodie) and playing Squash
