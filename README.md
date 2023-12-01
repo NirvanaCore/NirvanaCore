@@ -7,7 +7,7 @@
 ## About Me
 
 - Pronouns she/her
-- Software Developer at Human Cloud.
+- Senior Software Developer at Conga.
 - Currently expertising in MERN application (Fullstack).
 - Find inner peace in Technical Creativity and Learning.
 - Love cooking (foodie) and playing Squash
